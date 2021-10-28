@@ -63,4 +63,8 @@ public class LeadTest {
 	   
 	}
 
+	
+	private void syso() {
+		syso();
+	}
 }
