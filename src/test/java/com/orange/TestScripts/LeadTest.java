@@ -63,10 +63,11 @@ public class LeadTest {
 	   
 	}
 
-	
 	private void syso() {
-		syso();
+		// TODO Auto-generated method stub
+
 	}
+
 	
-	syso check();
+
 }
